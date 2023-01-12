@@ -23,5 +23,7 @@ Update from telnet with command
 Code
 
 wget http://patbuweb.com/HasBahCa/HasBahCa.tar -O /tmp/HasBahCa.tar > /dev/null
+
 rm -R /usr/lib/enigma2/python/Plugins/Extensions/HasBahCa
+
 tar -xvf /tmp/HasBahCa.tar -C /
